@@ -22,5 +22,5 @@ PowerPoint- Used to document, visualize, and explain analytical steps in an inte
 Github- Used for version control and collaboration, storing all project scripts, SQL queries, and documentation.
 
 # Summary of results
-
+After data is analyzed it is experted to deliver a clear understanding on how sales, customers, inventory and marketing activities impact the overall performance of the business. Identification of the best-selling and lease performing products, categories and time slots.
 
